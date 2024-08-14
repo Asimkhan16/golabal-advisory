@@ -1,62 +1,48 @@
 <?php include "header.php"; ?>
 <section class="banner-sec">
 	<div class="container-fluid p-0">
-		<div class="banner-wrap py-md-5">
-			<div class="container">
+		<div class="banner-wrap">
+			<div class="m-0 p-0">
 				<div class="row">
-					<div class="col-md-6">
-						<div class="banner-left-cont">
-							<span>Welcome to Maxair</span>
-							<h1>Excellence and Precision in <span class="clr-blue">Compressed Air Solutions</span></h1>
-							<p>At Maxair, we are committed to delivering first-time right, accurate solutions for all
-								your compressed air needs. Our dedication to excellence ensures that every customer
-								receives optimal, innovative products designed to enhance efficiency and reduce costs.
-								With a focus on integrity, service, and speed, we strive to provide unmatched value and
-								build strong, lasting relationships with our customers.</p>
-							<div class="banner-btn-wrap">
-								<a class="contact-btn me-3" href="#">Contact Us</a>
-								<a class="discover-btn ms-3" href="#">Discover More</a>
+					<div class="col-md-6 bnr-l-bg">
+						<div class="h-bnr-left">
+							<h1>Transform Your Business with Expert Financial Solutions</h1>
+							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. h desktop
+								publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+							<div class="h-btn">
+								<a href="#">explore now</a>
 							</div>
-						</div>
-						<div class="row pt-3">
-							<div class="col-md-4">
-								<div class="single-counter-wrap">
-									<div class="count-cont example">
-										<span class="transparent-text counter" data-max="20">+</span>
-										<p class="aboutus-value para">Years in Market</p>
+							<div class="row pt-3">
+								<div class="col-md-4">
+									<div class="single-counter-wrap">
+										<div class="count-cont example">
+											<span class="transparent-text counter">20+</span>
+											<p class="aboutus-value para">Years of Experience</p>
+										</div>
 									</div>
 								</div>
-							</div>
-							<div class="col-md-4">
-								<div class="single-counter-wrap">
-									<div class="count-cont example">
-										<span class="transparent-text counter" data-max="2">k+</span>
-										<p class="aboutus-value para">Successful Projects</p>
+								<div class="col-md-4">
+									<div class="single-counter-wrap">
+										<div class="count-cont example">
+											<span class="transparent-text counter">2K+</span>
+											<p class="aboutus-value para">Happy Customers</p>
+										</div>
 									</div>
 								</div>
-							</div>
-							<div class="col-md-4">
-								<div class="single-counter-wrap">
-									<div class="count-cont example">
-										<span class="transparent-text counter" data-max="60">+</span>
-										<p class="aboutus-value para">Varied Products</p>
+								<div class="col-md-4">
+									<div class="single-counter-wrap">
+										<div class="count-cont example">
+											<span class="transparent-text counter">60+</span>
+											<p class="aboutus-value para">Total Experience</p>
+										</div>
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
-					<div class="col-md-6">
-						<div class="banner-r-img-wrap">
-							<div class="row">
-								<div class="col-md-6">
-									<img src="images/banner-r1.webp" alt="banner img1">
-									<img src="images/banner-r2.webp" alt="banner img2">
-								</div>
-								<div class="col-md-6 mt-md-5">
-									<img src="images/banner-r3.webp" alt="banner img3">
-									<img src="images/banner-r4.webp" alt="banner img4">
-								</div>
-							</div>
+					<div class="col-md-6 bnr-r-bg">
+						<div class="h-bnr-right">
+
 						</div>
 					</div>
 				</div>
@@ -65,66 +51,113 @@
 	</div>
 	</div>
 </section>
-<section class="products py-md-5">
-	<div class="container pt-md-5">
-		<div class="products-top-cont">
-			<span class="sub-head animation-element slide-top">What do we deal with?</span>
-			<h2 class="animation-element slide-top">Maxair Product Offerings</h2>
-			<p>Committed to delivering first-time right, accurate solutions for all your compressed air needs</p>
-			<div class="ps-abs-text">
-				<span>Products</span>
+<section class="financial-future-sec py-md-5">
+	<div class="container">
+		<div class="sec-heading-sec">
+			<h2>Empowering Your Financial Future with Expertise and Innovation</h2>
+			<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. h desktop publishing software
+				like Aldus PageMaker including versions of Lorem Ipsum.</p>
+		</div>
+		<div class="row pt-3">
+			<div class="col-md-6">
+				<div class="future-l-sec flex-table ">
+					<div class="flex-row">
+						<div class="single-future-box flex-cell">
+							<img src="images/f-icon1.webp" alt="">
+							<p>Unmatched Expertise in Financial Strategy</p>
+						</div>
+						<div class="single-future-box flex-cell">
+							<img src="images/f-icon2.webp" alt="">
+							<p>Tailored Solutions for Your Unique Needs</p>
+						</div>
+						<div class="single-future-box flex-cell">
+							<img src="images/f-icon3.webp" alt="">
+							<p>Proven Track Record of Success</p>
+						</div>
+					</div>
+					<div class="flex-row">
+						<div class="single-future-box flex-cell">
+							<img src="images/f-icon4.webp" alt="">
+							<p>Innovative Approaches to Complex Challenges</p>
+						</div>
+						<div class="single-future-box flex-cell">
+							<img src="images/f-icon5.webp" alt="">
+							<p>Dedicated and Personalized Client Support</p>
+						</div>
+						<div class="single-future-box flex-cell">
+							<img src="images/f-icon6.webp" alt="">
+							<p>Cost-Effective Solutions with Lasting Impact</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6">
+				<div class="future-r-cont">
+					<h3>Lorem Ipsum is simply dummy text of the printing and  industry </h3>
+					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries</p>
+					<ul>
+						<li>Lorem Ipsum is simply dummy text of the</li>
+						<li>Lorem Ipsum is simply dummy text of the printing and</li>
+						<li>Lorem Ipsum is simply dummy text of the</li>
+						<li>Lorem Ipsum is simply dummy text of the printing and</li>
+					</ul>
+					<div class="explore-btn pt-2">
+						<a href="#">explore now</a>
+					</div>
+				</div>
 			</div>
 		</div>
-		<div class="prod-cont-sec pt-3">
+	</div>
+</section>
+<section class="service-sec py-md-5">
+	<div class="container">
+		<div class="service-top-cont">
+			<h2>Service Offerings</h2>
+			<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled</p>
+		</div>
+	</div>
+	<div class="service-box-sec">
+		<div class="container">
 			<div class="row">
 				<div class="col-md-4">
-					<div class="single-prod-box">
-						<div class="prod-top-img">
-							<img src="images/prod1.webp" alt="product img">
+					<div class="single-service-box">
+						<div class="s-service-img">
+							<img src="images/service1.webp" alt="service img">
 						</div>
-						<div class="s-prod-btm-cont">
-							<div class="prod-btm-icon">
-								<img src="images/icon1.webp" alt="icon 1">
-								<img class="hv-ps-abs" src="images/hb-icon1.webp" alt="blue icon">
+						<div class="s-service-cont">
+							<h4>Tax Advisory</h4>
+							<p>Navigate complex regulations with confidence.</p>
+							<div class="read-more-btn">
+								<a href="#">read more</a>
 							</div>
-							<h3 class="animation-element slide-top">Maxair Modular <br>Aluminum Piping</h3>
-							<p>Experience lightweight, corrosion-resistant piping that ensures clean air delivery and
-								minimizes maintenance costs. Available in multiple sizes, our modular design allows for
-								easy, one-person installation and seamless integration with existing systems.</p>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4">
-					<div class="single-prod-box">
-						<div class="prod-top-img">
-							<img src="images/prod2.webp" alt="product img">
+					<div class="single-service-box">
+						<div class="s-service-img">
+							<img src="images/service2.webp" alt="service img">
 						</div>
-						<div class="s-prod-btm-cont">
-							<div class="prod-btm-icon">
-								<img src="images/icon2.webp" alt="icon 1">
-								<img class="hv-ps-abs" src="images/hb-icon2.webp" alt="blue icon">
+						<div class="s-service-cont">
+							<h4>Management Consulting</h4>
+							<p>Drive growth and efficiency with tailored strategies.</p>
+							<div class="read-more-btn">
+								<a href="#">read more</a>
 							</div>
-							<h3 class="animation-element slide-top">Maxair Energy<br> Efficient Compressors</h3>
-							<p>Our state-of-the-art compressors are designed to optimize energy usage, providing
-								reliable performance for multiple air users and heavy-duty tools. Enjoy reduced
-								operational costs and enhanced system efficiency with Maxair’s advanced technology.</p>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4">
-					<div class="single-prod-box">
-						<div class="prod-top-img">
-							<img src="images/prod3.webp" alt="product img">
+					<div class="single-service-box">
+						<div class="s-service-img">
+							<img src="images/service3.webp" alt="service img">
 						</div>
-						<div class="s-prod-btm-cont">
-							<div class="prod-btm-icon">
-								<img src="images/icon3.webp" alt="icon 1">
-								<img class="hv-ps-abs" src="images/hb-icon3.webp" alt="blue icon">
+						<div class="s-service-cont">
+							<h4>Virtual CFO</h4>
+							<p>Gain strategic insights and financial leadership remotely.</p>
+							<div class="read-more-btn">
+								<a href="#">read more</a>
 							</div>
-							<h3 class="animation-element slide-top">Maxair Smart <br>Control Systems</h3>
-							<p>Take control of your compressed air system with Maxair’s intelligent control systems.
-								Monitor and adjust pressure levels in real-time, detect leaks promptly, and ensure
-								smooth operations with our user-friendly and responsive control solutions.</p>
 						</div>
 					</div>
 				</div>
@@ -132,147 +165,108 @@
 		</div>
 	</div>
 </section>
-<section class="why-us py-md-5">
-	<div class="container pt-md-5">
-		<span class="sub-head">WHY US?</span>
-		<div class="why-us-top-cont">
-			<div class="row">
-				<div class="col-md-6">
-					<h2 class="animation-element slide-top">Excellence, Innovation, and Reliability in everything we do!</h2>
+<section class="blogs-sec py-md-5">
+	<div class="container">
+		<h2 class="text-center pb-3">Latest Blogs</h2>
+		<div class="row">
+			<div class="col-md-4">
+				<div class="s-blog-wrap">
+					<div class="blog-img-wrap">
+						<img src="images/s-blog1.webp" alt="blog img">
+						<div class="blog-date">
+							<span>21</span>
+							<p>APR</p>
+						</div>
+					</div>
+					<div class="s-blog-cont">
+						<span>Business</span>
+						<h4>Lorem Ipsum is simply dummy text of the printing </h4>
+					</div>
 				</div>
-				<div class="col-md-6">
-					<p>We provide accurate, reliable solutions that work perfectly from the very first attempt. Our
-						dedication to excellence drives continuous improvement and innovation in all our products and
-						services. We focus on delivering value, building strong relationships, and ensuring complete
-						customer satisfaction.</p>
+			</div>
+			<div class="col-md-4">
+				<div class="s-blog-wrap">
+					<div class="blog-img-wrap">
+						<img src="images/s-blog2.webp" alt="blog img">
+						<div class="blog-date">
+							<span>21</span>
+							<p>APR</p>
+						</div>
+					</div>
+					<div class="s-blog-cont">
+						<span>Business</span>
+						<h4>Lorem Ipsum is simply dummy text of the printing </h4>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="s-blog-wrap">
+					<div class="blog-img-wrap">
+						<img src="images/s-blog3.webp" alt="blog img">
+						<div class="blog-date">
+							<span>21</span>
+							<p>APR</p>
+						</div>
+					</div>
+					<div class="s-blog-cont">
+						<span>Business</span>
+						<h4>Lorem Ipsum is simply dummy text of the printing</h4>
+					</div>
 				</div>
 			</div>
 		</div>
-		<div class="why-us-btm-sec pt-3">
-			<div class="row">
-				<div class="col-md-3">
-					<div class="single-whyus">
-						<div class="why-icon-wrap">
-							<img src="images/whyus-icon1.webp" alt="measurement icon">
-							<img class="ps-abs" src="images/whyus-icon1-c.webp" alt="measurement icon">
-						</div>
-						<h4 class="animation-element slide-top">Proper Pipe <br>Sizing</h4>
-					</div>
-				</div>
-				<div class="col-md-3">
-					<div class="single-whyus">
-						<div class="why-icon-wrap">
-							<img src="images/whyus-icon2.webp" alt="measurement icon">
-							<img class="ps-abs" src="images/whyus-icon2-c.webp" alt="measurement icon">
-						</div>
-						<h4 class="animation-element slide-top">Efficient Layout <br>Design</h4>
-					</div>
-				</div>
-				<div class="col-md-3">
-					<div class="single-whyus">
-						<div class="why-icon-wrap">
-							<img src="images/whyus-icon3.webp" alt="measurement icon">
-							<img class="ps-abs" src="images/whyus-icon3-c.webp" alt="measurement icon">
-						</div>
-						<h4 class="animation-element slide-top">Forward-Looking <br>Maintenance</h4>
-					</div>
-				</div> 
-				<div class="col-md-3">
-					<div class="single-whyus br-none">
-						<div class="why-icon-wrap">
-							<img src="images/whyus-icon4.webp" alt="measurement icon">
-							<img class="ps-abs" src="images/whyus-icon4-c.webp" alt="measurement icon">
-						</div>
-						<h4 class="animation-element slide-top">Piping <br>Materials</h4>
-					</div>
-				</div>
-			</div>
+		<div class="explore-btn text-center pt-5">
+			<a href="#">View More Blogs</a>
 		</div>
 	</div>
 </section>
 <section class="testimonial-sec py-md-5">
-	<div class="container pt-md-5">
+<div class="container-fluid py-5">
+	<div class="testimonial-left-img">
+		<img src="images/testimonial-left-img.webp" alt="testimonial img">
+	</div>
+	<div id="testimonialCarousel" class="carousel slide">
 		<div class="testimonial-top-cont">
-			<span class="sub-head animation-element slide-top">Trusted by Industry Leaders</span>
-			<h2 class="animation-element slide-top">What our clients say about us!</h2>
-			<div class="ps-abs-text">
-				<span>Testimonial</span>
-			</div>
+			<span>Testimonial</span>
+			<h2>What our Clients Say!</h2>
 		</div>
-		<div class="testimonial-cont-wrap pt-3">
-			<div class="row">
-				<div class="col-md-4">
-					<div class="single-testimonial-wrap">
-						<div class="test-cont-box">
-							<p>Maxair's solutions transformed our production line. Their reliable and efficient systems significantly reduced our downtime and maintenance costs. Highly recommended!</p>
-						</div>
-						<div class="testimonial-author-wrap d-flex align-items-center">
-							<div class="author-img">
-								<img src="images/testimonial3.webp" alt="user icon">
-							</div>
-							<div class="author-details">
-								<h6>John Doe</h6>
-								<span>Manufacturing Manager</span>
-							</div>
-						</div>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <div class="d-block w-100">
+					<div class="quotes-img">
+
 					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="single-testimonial-wrap">
-						<div class="test-cont-box">
-							<p>Maxair's compressed air systems are a game-changer for our hospital. The purity and reliability of their products ensure the best care for our patients. Exceptional service and quality!</p>
-						</div>
-						<div class="testimonial-author-wrap d-flex align-items-center">
-							<div class="author-img">
-								<img src="images/testimonial1.webp" alt="user img">
-							</div>
-							<div class="author-details">
-								<h6>Dr. Jane Smith</h6>
-								<span>Chief Medical Officer</span>
-							</div>
-						</div>
+                    <div class="test-cont-text">
+						<p>"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"</p>
+                    <h5>- Customer A</h5>
 					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="single-testimonial-wrap">
-						<div class="test-cont-box">
-							<p>We rely on Maxair for all our construction projects. Their durable and easy-to-install piping systems save us time and money, and their customer support is outstanding. Maxair delivers every time!</p>
-						</div>
-						<div class="testimonial-author-wrap d-flex align-items-center">
-							<div class="author-img">
-								<img src="images/testimonial2.webp" alt="user img">
-							</div>
-							<div class="author-details">
-								<h6>Michael Brown</h6>
-								<span>Construction Project Lead</span>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="d-block w-100">
+                    <p>"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."</p>
+                    <h5>- Customer B</h5>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="d-block w-100">
+                    <p>"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"</p>
+                    <h5>- Customer C</h5>
+                </div>
+            </div>
+        </div>
+        <div class="slider-btn-wrap">
+			<button class="carousel-control-prev" type="button" data-bs-target="#testimonialCarousel" data-bs-slide="prev">
+				<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+				<span class="visually-hidden">Previous</span>
+			</button>
+			<button class="carousel-control-next" type="button" data-bs-target="#testimonialCarousel" data-bs-slide="next">
+				<span class="carousel-control-next-icon" aria-hidden="true"></span>
+				<span class="visually-hidden">Next</span>
+			</button>
 		</div>
-	</div>
-</section>
-<section class="clientele-sec py-md-5">
-	<div class="container pt-md-5">
-		<div class="clientele-top-cont text-center">
-			<span class="sub-head animation-element slide-top">Our Clients</span>
-			<h2 class="animation-element slide-top">Partnering with Excellence</h2>
-			<div class="ps-abs-text">
-				<span>Clientele</span>
-			</div>
-		</div>
-		<div class="client-logo-wrap pt-3">
-			<img src="images/logo1.webp" alt="client-logo">
-			<img src="images/logo2.webp" alt="client-logo">
-			<img src="images/logo3.webp" alt="client-logo">
-			<img src="images/logo4.webp" alt="client-logo">
-			<img src="images/logo5.webp" alt="client-logo">
-			<img src="images/logo6.webp" alt="client-logo">
-			<img src="images/logo7.webp" alt="client-logo">
-			<img src="images/logo8.webp" alt="client-logo">
-		</div>
-	</div>
+    </div>
+</div>
 </section>
 
 <?php include "footer.php"; ?>

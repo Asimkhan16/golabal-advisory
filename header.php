@@ -1,5 +1,5 @@
 <?php
-$base_url = "http://localhost/global-advisory/";
+$base_url = "http://localhost/global-advisory\gd\golabal-advisory/";
 $pagename_with = basename($_SERVER['PHP_SELF']);
 $pagename_ = explode(".", $pagename_with);
 $pagename = $pagename_[0];
